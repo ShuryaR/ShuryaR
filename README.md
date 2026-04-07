@@ -12,12 +12,6 @@ Founder at **[OneBook](https://onebook.app)** — building ERPNext implementatio
 
 `Frappe Framework` `ERPNext` `Frappe Press` `Vue.js` `Python` `MariaDB` `Azure` `AWS` `Docker` `Nginx`
 
-#### Open Source
-
-- [OneBook-ERP](https://github.com/OneBook-ERP) — Custom ERPNext apps and integrations
-- [frappe_mcp_server](https://github.com/ShuryaR/frappe_mcp_server) — MCP server for Frappe Framework
-- Contributor to [frappe/press](https://github.com/frappe/press)
-
 #### Connect
 
 - **Company**: [onebook.app](https://onebook.app)
